@@ -1,0 +1,7 @@
+# 导出的成绩单 Markdown，不纳入版本管理
+exports/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.bak
